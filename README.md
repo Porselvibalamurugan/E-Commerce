@@ -18,7 +18,7 @@ You can access the live application [here](http://your-application-url.com).
 ## Setup and Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/grocery-delivery-application.git
+    git clone https://github.com/Porselvibalamurugan/E-Commerce.git
     cd grocery-delivery-application
     ```
 
