@@ -13,12 +13,12 @@ The Grocery Delivery Application is an e-commerce platform designed to facilitat
 
 ## Application Link
 
-You can access the live application [here](http://your-application-url.com).
+You can access the live application https://e-commerce-seven-eta-53.vercel.app/
 
 ## Setup and Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Porselvibalamurugan/E-Commerce.git
+    git clone https://github.com/Porselvibalamurugan/Grocery-Delivery-Application
     cd grocery-delivery-application
     ```
 
